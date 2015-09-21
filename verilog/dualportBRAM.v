@@ -1,3 +1,9 @@
+//
+// Copyright (C) 2015 Project
+// based on code by Edward Lin
+// License: http://www.gnu.org/licenses/gpl.html GPL version 2 or higher
+//
+
 //Classic inferred dual port BRAM
 
 module dualportBRAM (clka,

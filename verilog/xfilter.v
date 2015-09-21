@@ -1,5 +1,10 @@
+//
+// Copyright (C) 2015 Project
+// based on code by Edward Lin
+// License: http://www.gnu.org/licenses/gpl.html GPL version 2 or higher
+//
 //load pixel into circular buffer
-//compute x filter
+//compute x filter.  Left to right.
 module xfilter(clk, rst, 
                i_valid_new_pixel,
                i_new_pixel,

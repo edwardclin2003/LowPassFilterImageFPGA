@@ -1,3 +1,10 @@
+//
+// Copyright (C) 2015 Project
+// based on code by Edward Lin
+// License: http://www.gnu.org/licenses/gpl.html GPL version 2 or higher
+//
+
+//compute yfilter. Top to bottom.
 module yfilter(clk, rst, 
                i_new_pixelset,
                i_type, 

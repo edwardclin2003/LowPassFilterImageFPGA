@@ -1,3 +1,8 @@
+//
+// Copyright (C) 2015 Project
+// based on code by Edward Lin
+// License: http://www.gnu.org/licenses/gpl.html GPL version 2 or higher
+//
 //buffers pixels as they come in from stream
 //doesn't begin processing till after one row is buffered
 //reads a pixel from each of the two previous rows

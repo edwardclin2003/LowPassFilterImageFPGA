@@ -1,3 +1,8 @@
+//
+// Copyright (C) 2015 Project
+// based on code by Edward Lin
+// License: http://www.gnu.org/licenses/gpl.html GPL version 2 or higher
+//
 //Determines which vertical edges exist for a given pixel.
 //Start from top left corner all the way down to the bottom right corner
 //Also sends out BRAM address to read out the pixels needed to process the vertical filter
