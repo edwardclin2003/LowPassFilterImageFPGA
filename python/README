@@ -1,0 +1,8 @@
+#Python software reference for a separable 2D convolution filter for an image
+# Utilizes Python Imaging Library (PIL).  By default in Python2.7 in Ubuntu.  
+# Otherwise need to download at pythonware.com/products/pil/
+
+Usage: %s <inputImageFile> <inputFilterFile> <outputImageFile> <optional:outputAsciiPixelFile>
+
+Example:
+python2.6 gaussianFilter.py blurFilter.txt Lena.jpg Lena_blur.jpg
