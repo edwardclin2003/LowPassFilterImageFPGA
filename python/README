@@ -5,4 +5,4 @@
 Usage: %s <inputImageFile> <inputFilterFile> <outputImageFile> <optional:outputAsciiPixelFile>
 
 Example:
-python2.6 gaussianFilter.py blurFilter.txt Lena.jpg Lena_blur.jpg
+python gaussianFilter.py blurFilter.txt Lena.jpg Lena_blur.jpg
