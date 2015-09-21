@@ -4,13 +4,17 @@ This is an RTL block IP that does a 2D low pass separable filter for an image of
 To run the verilog code, go into verilog/
 
 To compile in ModelSim make sure you first have a working directory.  To create type:
+
 vlib work
 
 Next compilation, type:
+
 vlog *.v
 
 Run simulation testbench, type:
+
 vsim hw_tbv
 
 In Modelsim, just type:
+
 run -all
