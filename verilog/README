@@ -1,13 +1,15 @@
 To compile in ModelSim make sure you first have a working directory.  To create type:
+
 vlib work
 
 Next compilation, type:
+
 vlog *.v
 
 Run simulation testbench, type:
+
 vsim hw_tbv
 
 In Modelsim, just type:
-run
 
- -all
+run -all
