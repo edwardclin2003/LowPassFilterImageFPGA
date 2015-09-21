@@ -13,4 +13,4 @@ Run simulation testbench, type:
 vsim hw_tbv
 
 In Modelsim, just type:
-run
+run -all
